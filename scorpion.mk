@@ -38,12 +38,12 @@ PRODUCT_MODEL := Pixel 3 XL
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="crosshatch" \
-    PRIVATE_BUILD_DESC="crosshatch-user 11 RQ3A.210605.005 7349499 release-keys"
+    PRIVATE_BUILD_DESC="crosshatch-user 11 RQ3A.210705.001 7380771 release-keys"
 
-BUILD_FINGERPRINT := "google/crosshatch/crosshatch:11/RQ3A.210605.005/7349499:user/release-keys"
+BUILD_FINGERPRINT := "google/crosshatch/crosshatch:11/RQ3A.210705.001/7380771:user/release-keys"
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/crosshatch/crosshatch:11/RQ3A.210605.005/7349499:user/release-keys
+    ro.build.fingerprint=google/crosshatch/crosshatch:11/RQ3A.210705.001/7380771:user/release-keys
 
 # Active Edge
 PRODUCT_PACKAGES += \
